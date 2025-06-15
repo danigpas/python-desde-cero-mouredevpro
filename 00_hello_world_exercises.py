@@ -51,3 +51,4 @@ print(type(suma))
 
 # 10. Comenta el cÃ³digo del Ejercicio 9, y explica quÃ© hace cada lÃ­nea usando comentarios de una sola lÃ­nea.
 #hecho
+
