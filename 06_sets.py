@@ -14,6 +14,8 @@ print(set) #Que un set no admite duplicados, no hace nada
 
 set_tres={3}
 print(set_tres.issubset(set))
+#OTra forma es 3 in set
+print(3 in set)
 
 # 5. Elimina el nÃºmero 4 del set {1, 2, 3, 4, 5} e imprime el set resultante.
 set.discard(4)
